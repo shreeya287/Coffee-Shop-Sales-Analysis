@@ -1,0 +1,2 @@
+This project involves analyzing coffee sales data using SQL and Power BI. SQL was employed to extract and transform data from various sources, ensuring accurate and comprehensive datasets. With Power BI, insightful visualizations and dashboards were created to highlight key trends, sales performance, and customer behavior. This analysis aids in making data-driven decisions to enhance marketing strategies and optimize sales processes. The repository includes SQL queries, data models, and Power BI files for replication and further exploration.
+# Coffee-Sales-Analysis
